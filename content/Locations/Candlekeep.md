@@ -1,0 +1,1 @@
+The fortress-library of Candlekeep sits on the Western coast of [[Greyshard]], North of the city of [[New Babylon]]. The library is ruled by the Grand Librarian, whose identity remains unknown to the public. Anyone who seeks an audience with the Grand Librarian is usually given one with [[Bookwyrm]], the library's First Reader, who manages the collections held at the library.

@@ -1,8 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Greyshard
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-[[sigma sigma on the wall]]
-[[Untitled]] 
+Welcome to the homepage for a wiki designed to allow all the players in the Greyshard campaign to reference the goings on of the campaign world around them.
